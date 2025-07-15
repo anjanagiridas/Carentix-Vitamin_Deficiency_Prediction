@@ -1,0 +1,5 @@
+torch==2.1.0      # Update to match your CUDA/CPU version
+torchvision==0.16.0
+pillow==10.1.0
+numpy==1.26.0
+flask==3.0.0

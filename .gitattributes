@@ -1,0 +1,4 @@
+vitamin_deficiency_model.pth filter=lfs diff=lfs merge=lfs -text
+vitamin_deficiency_model_final.pth filter=lfs diff=lfs merge=lfs -text
+node_modules/.cache/default-development/* filter=lfs diff=lfs merge=lfs -text
+frontend/frontend/node_modules/.cache/default-development/1.pack filter=lfs diff=lfs merge=lfs -text
