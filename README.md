@@ -54,11 +54,13 @@ Using **Convolutional Neural Networks (CNNs)** like AlexNet, we classify potenti
 ---
 
 
-## 👩‍💻 Team Members
 
-Anjana Giridas
-Nidhi Jaimon
-Niveditha Prasad
-Niveditha Shaji
+## 👥 Team Members
+
+- **Anjana Giridas**
+- **Nidhi Jaimon**
+- **Niveditha Prasad**
+- **Niveditha Shaji**
+
 
 
